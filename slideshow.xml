@@ -5,11 +5,11 @@
         <caption>Picture 1</caption>
     </image>
     <image>
-        <src>dog2.jpg</src>
+        <img src="https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/Team_Collage_Slider.jpg" alt="Team Collage">
         <caption>Picture 2</caption>
     </image>
     <image>
-        <src>dog3.png</src>
+        <img src="https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/3-4.png" alt="Big Dog">
         <caption>Picture 3</caption>
     </image>
 </slideshow>
