@@ -9,7 +9,7 @@
         <caption>Picture 2</caption>
     </image>
     <image>
-        <src>dog3.jpg</src>
+        <src>dog3.png</src>
         <caption>Picture 3</caption>
     </image>
 </slideshow>
