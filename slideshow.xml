@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+    <image>
+        <src>beach1.jpeg</src>
+        <caption>Picture 1</caption>
+    </image>
+    <image>
+        <src>beach2.jpeg</src>
+        <caption>Picture 2</caption>
+    </image>
+    <image>
+        <src>beach3.jpeg</src>
+        <caption>Picture 3</caption>
+    </image>
+</slideshow>
