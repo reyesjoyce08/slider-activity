@@ -77,7 +77,7 @@
 <body>
 
     <div class="slideshow-container" id="slideshow-container">
-        <!-- Slides will be added dynamically -->
+
     </div>
 
     <script>
@@ -119,7 +119,6 @@
                         slideshowContainer.appendChild(slideDiv);
                     }
 
-                    // Navigation Buttons
                     let prevBtn = document.createElement("a");
                     prevBtn.classList.add("prev");
                     prevBtn.innerHTML = "&#10094;";
@@ -136,9 +135,9 @@
                     slides = document.getElementsByClassName("mySlides");
 
                     if (slides.length > 0) {
-                        slideIndex = 0; // Reset slide index
+                        slideIndex = 0; 
                         showSlides();
-                        setInterval(() => plusSlides(1), 3000); // Auto-slide every 3 seconds
+                        setInterval(() => plusSlides(1), 3000); 
                     }
                 }
             };
